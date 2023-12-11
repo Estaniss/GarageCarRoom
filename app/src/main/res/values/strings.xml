@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GarageCar</string>
+    <string name="carModel">Modelo do Carro:</string>
+    <string name="carYear">Ano do Carro:</string>
+    <string name="carColor">Cor do Carro:</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="pesquisar">Pesquisar</string>
+</resources>
